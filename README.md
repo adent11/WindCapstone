@@ -11,9 +11,10 @@
 Use cumulative knowledge to solve an important issue.
 
 
-# Planning<ln>
+# Resources<ln>
 
 * [Autonomous drone landing](https://www.suasnews.com/2018/09/mapturedrone-in-a-box-prototype-automated-take-off-and-landing-demonstration/)
+* [Wind measuring Drone](optolution.com/en/news/single-view-en/optokopter/)
 
 ## Materials
 * 
@@ -26,12 +27,24 @@ Use cumulative knowledge to solve an important issue.
 
 
 ## Tentative schedule
-
-
-
-# Climate Survey results
+* November 1st - December 20th:
+    * Make Onshape model of box
+    * Get any sort of wind speed readings (not on a drone)
+* January 6th - April 1st:
+    * Have box made
+    * Have drone fly with full payload
+    * Have prototype for charging system
+* April - End of School:
+    * Have charging system
+    * Be able to detect wind speeds accurately
+    * Make project summary presentation
 
 
 # Code
 
 # Documentation
+
+### Week of 10.31.22
+* Succesfully pivoted to new project
+* Created slideshow
+* Developed plan for deliverables and 

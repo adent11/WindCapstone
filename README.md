@@ -11,11 +11,9 @@
 Use cumulative knowledge to solve an important issue.
 
 
-# Planning
-<ln>
-  
-## Outline of project
-* 
+# Planning<ln>
+
+* [Autonomous drone landing](https://www.suasnews.com/2018/09/mapturedrone-in-a-box-prototype-automated-take-off-and-landing-demonstration/)
 
 ## Materials
 * 

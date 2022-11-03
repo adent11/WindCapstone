@@ -23,8 +23,7 @@ Use cumulative knowledge to solve an important issue.
 * Our project is pretty low risk
 
 # To-Do
-* optolution.com/en/news/single-view-en/optokopter/
-
+* 
 
 ## Tentative schedule
 * November 1st - December 20th:

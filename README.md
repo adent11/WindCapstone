@@ -47,4 +47,5 @@ Use cumulative knowledge to solve an important issue.
 ### Week of 10.31.22
 * Succesfully pivoted to new project
 * Created slideshow
-* Developed plan for deliverables and 
+* Developed plan for deliverables and figured out essential vs nonessential requirements
+* Relatively sure we will be purchasing the [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P)

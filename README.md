@@ -47,4 +47,5 @@ Use cumulative knowledge to solve an important issue.
 * Succesfully pivoted to new project
 * Created slideshow
 * Developed plan for deliverables and figured out essential vs nonessential requirements
-* Relatively sure we will be purchasing the [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P)
+* Relatively sure we will be purchasing the [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P), though getting enough power to it could be a challenge
+* Next we will figure out how to connect the Rasperry Pi to the drone

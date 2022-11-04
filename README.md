@@ -20,7 +20,7 @@ Use cumulative knowledge to solve an important issue.
 * 
 
 ## Risk Mitigation
-* Our project is pretty low risk
+* The main source of risk for our project is drone flight, so we will use proper precautions and only fly in appropriate circumstances
 
 # To-Do
 * 

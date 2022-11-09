@@ -49,3 +49,9 @@ Use cumulative knowledge to solve an important issue.
 * Developed plan for deliverables and figured out essential vs nonessential requirements
 * Relatively sure we will be purchasing the [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P), though getting enough power to it could be a challenge
 * Next we will figure out how to connect the Rasperry Pi to the drone
+
+### Week of 11.09.22
+* Ordered wind hot wire anemometer sensor
+* Realized that Tello will not be stable enough
+
+

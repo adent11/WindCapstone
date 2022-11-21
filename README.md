@@ -52,14 +52,13 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 11.07.22
 * Ordered wind hot wire anemometer sensor
-* Realized that Tello will not be stable enough
-
-### Week of 11.14.22
 *   Researched anemometer calibration on the [maker's website](https://moderndevice.com/blogs/documentation/wind-sensor-calibration-and-the-wind-tunnel), it is somewhat complicated and may be inaccurate in extreme weather conditions
 * Tested how much the Tello drones can lift
 * Realized that we will have to use another drone with GPS stabilization since it would be very difficult to correct for the drone's drifting in the wind
 
-### Week of 11.21.22
+### Week of 11.14.22
 * Test flew a couple drones, realized that we will use Will's Contixo F18 GPS since has a greater lift capacity and can use GPS to stay in one position in the wind
 * Took apart Contixo F18 GPS and figured out that we can drill into the top part of the drone and attach components with bolts
 * We will use a template to measure where to drill the holes
+
+### Week of 11.21.22

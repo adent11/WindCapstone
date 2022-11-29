@@ -62,3 +62,5 @@ Use cumulative knowledge to solve an important issue.
 * We will use a template to measure where to drill the holes
 
 ### Week of 11.21.22
+* Short week, but we got the plate for the top of the drone for mounting the wind sensor printed out.
+

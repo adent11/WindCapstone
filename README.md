@@ -65,3 +65,8 @@ Use cumulative knowledge to solve an important issue.
 * Short week, but we got the template plate for making holes in the drone to bolt the wind sensor and other components to
 * Drilled the holes and put bolts through the top plate of the drone
 
+### Week of 11.28.22
+* Laser cut acrylic plate to find tolerance for holes for leg mounts - will be used in future to make legs
+<img src="Media/LegPlate.jpg" width="300px" height="400" /> 
+
+

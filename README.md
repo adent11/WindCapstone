@@ -69,4 +69,4 @@ Use cumulative knowledge to solve an important issue.
 * Laser cut acrylic plate to find tolerance for holes for leg mounts - will be used in future to make legs
 <img src="Media/LegPlate.jpg" width="300px" height="400" />  <br/>
 * Tested how accurately we can land the drone, found that we can consistently land within an 18" square
-* Thought through how our docking will work, we will now prototype a system where each of the drone's rotors has a leg coming down from it which will each have a funnel that will allign it upon landing
+* Thought through how our docking will work, we will now prototype a system where the drone will have four legs which will be guided into place by four funnesl, alligning the drone

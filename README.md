@@ -77,3 +77,5 @@ Use cumulative knowledge to solve an important issue.
 <img src="Media/droneleg1.jpg" width="300px" height="400"/> <img src="Media/droneleg2.jpg" width="300px" height="400" /> <br/>
 * Ran into some clearence issues so had to dremel out a small portion of the legs. 
 * Drone flew well and legs seemed to add negligible weight.
+* Wrote test code to read wind speed and tempereature from wind sensor, altitude and tempereature from barometric pressure sensor
+* Figured out how to record data on the Pico, it requires changing the read/write status of the Pico meaning the computer can no longer write and can only read

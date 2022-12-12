@@ -73,7 +73,7 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 12.5.22
 * Printed out drone legs and attached them - 
-<img src="droneleg1.jpg" width="300px" height="400" />  <br/>
-<img src="droneleg2.jpg" width="300px" height="400" />  <br/>
+<img src="Media/droneleg1.jpg" width="300px" height="400" />  <br/>
+<img src="Media/droneleg2.jpg" width="300px" height="400" />  <br/>
 * Ran into some clearence issues so had to dremel out a small portion of the legs. 
 * Drone flew well and legs seemed to add negligible weight.

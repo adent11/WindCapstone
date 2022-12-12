@@ -70,3 +70,10 @@ Use cumulative knowledge to solve an important issue.
 <img src="Media/LegPlate.jpg" width="300px" height="400" />  <br/>
 * Tested how accurately we can land the drone, found that we can consistently land within an 18" square
 * Thought through how our docking will work, we will now prototype a system where the drone will have four legs which will be guided into place by four funnesl, alligning the drone
+
+### Week of 12.5.22
+* Printed out drone legs and attached them - 
+<img src="droneleg1.jpg" width="300px" height="400" />  <br/>
+<img src="droneleg2.jpg" width="300px" height="400" />  <br/>
+* Ran into some clearence issues so had to dremel out a small portion of the legs. 
+* Drone flew well and legs seemed to add negligible weight.

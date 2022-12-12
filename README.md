@@ -17,7 +17,8 @@ Use cumulative knowledge to solve an important issue.
 * [Wind measuring Drone](optolution.com/en/news/single-view-en/optokopter/)
 
 ## Materials
-* 
+* [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P)
+* Contixo GPS F18 Drone
 
 ## Risk Mitigation
 * The main source of risk for our project is drone flight, so we will use proper precautions and only fly in appropriate circumstances

@@ -82,6 +82,8 @@ Use cumulative knowledge to solve an important issue.
    
 ### Week of 12.12.22
 * Created new legs that work well with the drone and will allow for access to charging in the future
-<img src="Media/legsV2.png" width="100px" height="300"/>
+<img src="Media/legsV2.png" width="100px" height="300"/> <br/>
 * Developed funnel for legs to slot into.
 <img src="Media/FunnelV1.png" width="300px" height="200" /> <br/>
+* Printed one leg and funnel to test
+<img src="Media/PrintedLegAndCone.jpg" width="267" height="200" /> <br/>

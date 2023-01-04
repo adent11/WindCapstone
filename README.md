@@ -17,7 +17,8 @@ Use cumulative knowledge to solve an important issue.
 * [Wind measuring Drone](optolution.com/en/news/single-view-en/optokopter/)
 
 ## Materials
-* 
+* [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P)
+* Contixo GPS F18 Drone
 
 ## Risk Mitigation
 * The main source of risk for our project is drone flight, so we will use proper precautions and only fly in appropriate circumstances
@@ -70,3 +71,20 @@ Use cumulative knowledge to solve an important issue.
 <img src="Media/LegPlate.jpg" width="300px" height="400" />  <br/>
 * Tested how accurately we can land the drone, found that we can consistently land within an 18" square
 * Thought through how our docking will work, we will now prototype a system where the drone will have four legs which will be guided into place by four funnesl, alligning the drone
+
+### Week of 12.5.22
+* Printed out drone legs and attached them: <br/>
+<img src="Media/droneleg1.jpg" width="300px" height="400"/> <img src="Media/droneleg2.jpg" width="300px" height="400" /> <br/>
+* Ran into some clearence issues so had to dremel out a small portion of the legs. 
+* Drone flew well and legs seemed to add negligible weight.
+* Wrote test code to read wind speed and tempereature from wind sensor, altitude and tempereature from barometric pressure sensor
+* Figured out how to record data on the Pico, it requires changing the read/write status of the Pico meaning the computer can no longer write and can only read
+   
+### Week of 12.12.22
+* Created new legs that work well with the drone and will allow for access to charging in the future
+<br/> <img src="Media/legsV2.png" width="100px" height="300"/> <br/>
+* Developed funnel for legs to slot into.
+<br/> <img src="Media/FunnelV1.png" width="300px" height="200" /> <br/>
+* Printed one leg and funnel and succesfully tested landing in it
+<br/> <img src="Media/PrintedLegAndCone.jpg" width="267" height="200" /> <br/>
+* Moved towards finalizing Pico code, we can now save the wind speed, temperature, and altitude to a file; this took a lot of troubleshooting to get the file to save properly

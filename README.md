@@ -90,4 +90,7 @@ Use cumulative knowledge to solve an important issue.
 * Moved towards finalizing Pico code, we can now save the wind speed, temperature, and altitude to a file; this took a lot of troubleshooting to get the file to save properly
 
 ### Week of 1.2.22
-* Attached new legs to the drone and attached funnels to a large plate. 
+* Attached new legs to the drone and attached funnels to a large plate.
+* Succesfully tested landing in the funnels
+* Finalized a first version of code which can record wind speed, tempereature, and altitude
+* Started planning the design of the box which will house our drone

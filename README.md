@@ -88,3 +88,6 @@ Use cumulative knowledge to solve an important issue.
 * Printed one leg and funnel and succesfully tested landing in it
 <br/> <img src="Media/PrintedLegAndCone.jpg" width="267" height="200" /> <br/>
 * Moved towards finalizing Pico code, we can now save the wind speed, temperature, and altitude to a file; this took a lot of troubleshooting to get the file to save properly
+
+### Week of 1.2.22
+* Attached new legs to the drone and attached funnels to a large plate. 

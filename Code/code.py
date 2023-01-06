@@ -64,3 +64,5 @@ try:
         flightNum = flightNum + 1
 except:
     setColor(red)
+    while True:
+        pass

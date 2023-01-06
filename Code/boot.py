@@ -13,3 +13,6 @@ if not buttonPin.value:
     led.value = True
     time.sleep(3)
     storage.remount("/", readonly=False)
+
+while not buttonPin.value:
+    pass

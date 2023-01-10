@@ -92,5 +92,10 @@ Use cumulative knowledge to solve an important issue.
 ### Week of 1.2.22
 * Attached new legs to the drone and attached funnels to a large plate.
 * Succesfully tested landing in the funnels
-* Finalized a first version of code which can record wind speed, tempereature, and altitude
+* Finalized a first version of code which can record wind speed, temperature, and altitude
 * Started planning the design of the box which will house our drone
+<br/> <img src="Media/Boxplan.png" width="600" height="200" /> <br/>
+
+
+### Week of 1.9.22
+* Determined height needed for the mast for the drone

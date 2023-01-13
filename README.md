@@ -99,3 +99,9 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 1.9.22
 * Determined height needed for the mast for the drone
+* Created temporary stand in Onshape for holding up the wind sensor above the drone
+* Re-learned how to mill out a circuit board
+* T501 - V bit for engraving PCB
+* T112 - "Hatches", "cut", milling out all extra copper and profile
+* T609 - Drills out the through holes
+

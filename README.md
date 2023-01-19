@@ -103,7 +103,7 @@ Use cumulative knowledge to solve an important issue.
 * Re-learned how to mill out a circuit board
 * Finished designing PCB in Fritzing and prepared G-Code to mill it
 <br/> <img src="Media/PCBDesign.PNG" width="379" height="300" /> <br/>
-* G-Code part names
+* G-Code part names and uses
    * T501 - "Contour", V bit for engraving PCB
    * T112 - "Hatches", "cut", milling out all extra copper and profile
    * T609 - "Drill", Drills out the through holes

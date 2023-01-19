@@ -101,11 +101,9 @@ Use cumulative knowledge to solve an important issue.
 * Determined height needed for the mast for the drone
 * Created temporary stand in Onshape for holding up the wind sensor above the drone
 * Re-learned how to mill out a circuit board
-* Finished designing PCB in Fritzing
+* Finished designing PCB in Fritzing and prepared G-Code to mill it
 <br/> <img src="Media/PCBDesign.PNG" width="379" height="300" /> <br/>
-
-
-* T501 - "Contour", V bit for engraving PCB
-* T112 - "Hatches", "cut", milling out all extra copper and profile
-* T609 - "Drill", Drills out the through holes
-
+* G-Code part names
+   * T501 - "Contour", V bit for engraving PCB
+   * T112 - "Hatches", "cut", milling out all extra copper and profile
+   * T609 - "Drill", Drills out the through holes

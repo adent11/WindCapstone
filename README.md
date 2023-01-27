@@ -89,7 +89,7 @@ Use cumulative knowledge to solve an important issue.
 <br/> <img src="Media/PrintedLegAndCone.jpg" width="267" height="200" /> <br/>
 * Moved towards finalizing Pico code, we can now save the wind speed, temperature, and altitude to a file; this took a lot of troubleshooting to get the file to save properly
 
-### Week of 1.2.22
+### Week of 1.2.23
 * Attached new legs to the drone and attached funnels to a large plate.
 * Succesfully tested landing in the funnels
 * Finalized a first version of code which can record wind speed, temperature, and altitude
@@ -97,7 +97,7 @@ Use cumulative knowledge to solve an important issue.
 <br/> <img src="Media/Boxplan.png" width="600" height="200" /> <br/>
 
 
-### Week of 1.9.22
+### Week of 1.9.23
 * Determined height needed for the mast for the drone
 * Created temporary stand in Onshape for holding up the wind sensor above the drone
 * Re-learned how to mill out a circuit board
@@ -107,3 +107,9 @@ Use cumulative knowledge to solve an important issue.
    * T501 - "Contour", V bit for engraving PCB
    * T112 - "Hatches", "cut", milling out all extra copper and profile
    * T609 - "Drill", Drills out the through holes
+
+### Week of 1.16.23
+* Worked on presentation describing the current state of our project and our progress during the second quarter
+
+### Week of 1.23.23
+* Tried to mill our PCB, but ran into issues with the G-Code created by Carbide Copper having extra tool changes that caused the bit to stop spinning and break, issues with zeroing the z-axis and with the consistency of the width of the copper layer

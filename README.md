@@ -113,3 +113,8 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 1.23.23
 * Tried to mill our PCB, but ran into issues with the G-Code created by Carbide Copper having extra tool changes that caused the bit to stop spinning and break, issues with zeroing the z-axis and with the consistency of the width of the copper layer
+* Finished milling the PCB and sanded copper off the back of the plate
+* Printed out the stand for the wind sensor that we will bolt to the top of the drone
+
+### Week of 1.30.23
+* 

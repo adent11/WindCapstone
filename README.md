@@ -119,4 +119,4 @@ Use cumulative knowledge to solve an important issue.
 ### Week of 1.30.23
 * Sanded down the dowel to fit into the drone sensor holder
 * Created the onshape model for the clamp to wrap around the drone 
-<br/> <img src="Media/sensorClamp.png" width="600" height="200" /> <br/>
+<br/> <img src="Media/sensorClamp.png" /> <br/>

@@ -117,4 +117,6 @@ Use cumulative knowledge to solve an important issue.
 * Printed out the stand for the wind sensor that we will bolt to the top of the drone
 
 ### Week of 1.30.23
-* 
+* Sanded down the dowel to fit into the drone sensor holder
+* Created the onshape model for the clamp to wrap around the drone 
+<br/> <img src="Media/sensorClamp.png" width="600" height="200" /> <br/>

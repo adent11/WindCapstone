@@ -116,7 +116,7 @@ Use cumulative knowledge to solve an important issue.
 * Finished milling the PCB and sanded copper off the back of the plate
 * <br/> <img src="Media/PCB.png" width="300" height="400"/> <br/>
 * Printed out the stand for the wind sensor that we will bolt to the top of the drone
-* <br/> <img src="Media/circledHolder.png"width="300" height="400"/> <br/>
+* <br/> <img src="Media/circledHolder.png" width="400" height="300"/> <br/>
 
 
 ### Week of 1.30.23

@@ -123,3 +123,8 @@ Use cumulative knowledge to solve an important issue.
 * Sanded down the dowel to fit into the drone sensor holder
 * Created the onshape model for the clamp to wrap around the drone 
 <br/> <img src="Media/sensorClamp.png" /> <br/>
+
+### Week of 2.6.2023
+* Test flew the drone with the pillar of sensor on top, had some wobble because it was not screwed together all the way
+* Screwed drone and added tape to reduce vibrations and wibble wobble during flight
+* Designed the PCB bracket in Onshape and laser cut the bracket piece

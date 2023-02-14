@@ -128,3 +128,6 @@ Use cumulative knowledge to solve an important issue.
 * Test flew the drone with the pillar of sensor on top, had some wobble because it was not screwed together all the way
 * Screwed drone and added tape to reduce vibrations and wibble wobble during flight
 * Designed the PCB bracket in Onshape and laser cut the bracket piece
+
+### Week of 2.13.2023
+* Test flew drone with pillar for the sensor on top AND the PCB and 9v battery on the bottom.

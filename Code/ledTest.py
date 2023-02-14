@@ -15,6 +15,7 @@ def setColor(c):
     bPin.value = c[2]
 
 while True:
+    print("boop")
     setColor(red)
     time.sleep(.1)
     setColor(green)

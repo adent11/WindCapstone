@@ -21,4 +21,4 @@ while True:
     tempC = (tempVolts-.4) / .0195
     print(f"Pressure: {b.pressure}  Altitude: {b.altitude}  Temperature: {b.temperature}")
     print(f"windVolts: {windVolts}  windMPH: {windMPH}")
-    print(f"tempVolts: {tempVolts}  tempC: {tempC}")
+    print(f"tempVolts: {tempVolts}  tempC: {tempC}\n")

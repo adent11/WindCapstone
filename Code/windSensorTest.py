@@ -18,5 +18,5 @@ while True:
     tempVolts = getVoltage(tempInVal)
     tempC = (tempVolts-.4) / .0195
     print(f"windInVal: {windInVal}  windVolts: {windVolts}  windMPH: {windMPH}")
-    print(f"tempInVal: {tempInVal}  tempVolts: {tempVolts}  tempC: {tempC}")
+    print(f"tempInVal: {tempInVal}  tempVolts: {tempVolts}  tempC: {tempC}\n")
     time.sleep(0.5)

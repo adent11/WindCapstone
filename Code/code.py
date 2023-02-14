@@ -47,18 +47,19 @@ try:
             pass
         time.sleep(.5)
         setColor(blue)
+        startTime = time.time()
         while not buttonPressed(): # Records data until button is pressed
             windVolts = getVoltage(windIn.value)
             windMPH = ((voltsToArduinoIn(windVolts) - 264) / 85.6814)**3
             tempVolts = getVoltage(tempIn.value)
             tempC = (tempVolts-.4) / .0195
-            dataList.append(f"{b.altitude},{windMPH},{b.temperature},{tempC},{windVolts}\n") # Recording data to list
+            dataList.append(f"{b.altitude},{windMPH},{b.temperature},{tempC},{windVolts},{time.time()-startTime}\n") # Recording data to list
         while buttonPressed(): # Wait for button release
             pass
         time.sleep(.5)
         setColor(cyan)
         with open(filePath, "w") as file:
-            file.write("altitude,windMPH,barometerTemp,windTemp,windVolts\n")
+            file.write("altitude,windMPH,barometerTemp,windTemp,windVolts,timeFromStart\n")
             for dataLine in dataList:
                 file.write(dataLine)
         flightNum = flightNum + 1

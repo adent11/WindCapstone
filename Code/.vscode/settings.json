@@ -7,7 +7,15 @@
     "python.analysis.extraPaths": [
         "",
         "c:\\Users\\adent11\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.19-win32-x64\\stubs",
-        "c:\\Users\\adent11\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20221215\\adafruit-circuitpython-bundle-py-20221215\\lib"
+        "c:\\Users\\adent11\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20230202\\adafruit-circuitpython-bundle-py-20230202\\lib",
+        ".vscode\\Pico-W-Stub\\stubs"
     ],
-    "circuitpython.board.version": null
+    "circuitpython.board.version": null,
+    "python.linting.enabled": true,
+    "python.analysis.typeshedPaths": [
+        ".vscode\\Pico-W-Stub"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "picowgo.syncFolder": "",
+    "picowgo.openOnStart": true
 }

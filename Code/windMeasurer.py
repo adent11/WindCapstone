@@ -19,6 +19,6 @@ while True:
     windMPH = ((voltsToArduinoIn(windVolts) - 264) / 85.6814)**3
     tempVolts = getVoltage(tempIn.value)
     tempC = (tempVolts-.4) / .0195
-    print(f"Pressure: {b.pressure}  Altitude: {b.altitude}  Temperature: {b.temperature}")
+    #print(f"Pressure: {b.pressure}  Altitude: {b.altitude}  Temperature: {b.temperature}")
     print(f"windVolts: {windVolts}  windMPH: {windMPH}")
-    print(f"tempVolts: {tempVolts}  tempC: {tempC}\n")
+    #print(f"tempVolts: {tempVolts}  tempC: {tempC}\n")

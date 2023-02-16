@@ -131,3 +131,5 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 2.13.2023
 * Test flew drone with pillar for the sensor on top AND the PCB and 9v battery on the bottom.
+<br/> <img src="Media/sensorfirstFlight.gif"width="400" height="300"/> <br/>
+

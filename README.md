@@ -131,7 +131,6 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 2.13.2023
 * Test flew drone with pillar for the sensor on top AND the PCB and 9v battery on the bottom.
-<br/> <img src="Media/sensorfirstFlight.gif"width="400" height="300"/> <br/>
 * First flight with the sensor at the top of the mast was very unstable and we momentarily lost control of the drone, which may or not be related to the instability
 * Realized that our tests with the sensor at different heights was useless since the PCB trace connecting the wind sensor to power cracked
 * Soldered together the two sides of the cracked wire on the PCB

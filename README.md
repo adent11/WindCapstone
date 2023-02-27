@@ -135,3 +135,8 @@ Use cumulative knowledge to solve an important issue.
 * Realized that our tests with the sensor at different heights was useless since the PCB trace connecting the wind sensor to power cracked
 * Soldered together the two sides of the cracked wire on the PCB
 * Did some much needed cleaning to prepare for the next stage of our project, designing the drone housing box
+
+### Week of 2.20.2023  
+* Test flew drone again in order to get proper wind detection data
+* Code stopped working midway through the flight, had to debug.
+* Ended up being an issue with making the list too long in the code.

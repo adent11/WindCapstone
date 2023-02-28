@@ -138,5 +138,8 @@ Use cumulative knowledge to solve an important issue.
 
 ### Week of 2.20.2023  
 * Test flew drone again in order to get proper wind detection data
-* Code stopped working midway through the flight, had to debug.
-* Ended up being an issue with making the list too long in the code.
+* Realized that the altitude sensor readings were too slow, causing not enough data to be collected
+* Edited barometric pressure altitude sensor library to take more readings per second
+* Test felw again, but the code had an error midway through the flight
+* Code issue was that with the new sensor reading speed, the list it was saving data to became too large, causing an error
+* Changed code to save readings to a file midflight when the list gets close to the maximum size

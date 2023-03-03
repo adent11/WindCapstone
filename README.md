@@ -142,4 +142,11 @@ Use cumulative knowledge to solve an important issue.
 * Edited barometric pressure altitude sensor library to take more readings per second
 * Test felw again, but the code had an error midway through the flight
 * Code issue was that with the new sensor reading speed, the list it was saving data to became too large, causing an error
-* Changed code to save readings to a file midflight when the list gets close to the maximum size
+* Changed code to save readings to a file mid-flight when the list gets close to the maximum size
+
+### Week of 3.27.2023
+* Tested gathering data with the wind sensor at different distances from the propellers; it is ideal to put it as close as possibile while still taking accurate wind readings so the housing box can be as small as possible and to increase stability
+* Graphed the wind speed reading and altitude at each sensor position to see if the propeller spinning affected the wind speed reading
+<br/> <img src="Media/WindSpeedAltitudeChartLow.png" width="400" height="200"/>       <img src="Media/WindSpeedAltitudeChartMiddle.png" width="400" height="200"/><img src="Media/WindSpeedAltitudeChartHigh.png" width="400" height="200"/>
+* Found that the wind created by the drone moving does affect the readings, but when it is flying in a stable position it doesn't, so the lowest position works for our purposes: gathering data while flying at a stable altitude
+* Brainstormed different options for box design and getting the landing platform far enough from the walls of the box

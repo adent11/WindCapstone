@@ -154,4 +154,4 @@ Use cumulative knowledge to solve an important issue.
 ### Week of 3.6.23
 * Decided to use a canopy to fold out and cover the drone after it lands, which will mean that the drone won't have to be raised or lowered to provide clearance for landing
 * Designed, 3d printed, and assembled a scale prototype for the canopy
-<br/> <img src="Media/ScaleCanopy.png" width="306" height="200"/>
+<br/> <img src="Media/ScaleRibs.PNG" width="306" height="200"/>

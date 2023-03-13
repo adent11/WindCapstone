@@ -155,4 +155,5 @@ Use cumulative knowledge to solve an important issue.
 * Decided to use a canopy to fold out and cover the drone after it lands, which will mean that the drone won't have to be raised or lowered to provide clearance for landing
 * Designed, 3d printed, and assembled a scale prototype for the canopy
 * Attached plastic between the ribs of the canopy to waterproof, in the full size version we will material from a tarp
+* For the final version we will have to divide each rib into multiple segments to fit in the 3d printer
 <br/> <img src="Media/ScaleRibs.PNG" width="306" height="200"/> <img src="Media/ScaleRibVideo.gif" width="355" height="200"/>

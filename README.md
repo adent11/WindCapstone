@@ -150,3 +150,8 @@ Use cumulative knowledge to solve an important issue.
 <br/> <img src="Media/WindSpeedAltitudeChartLow.png" width="400" height="200"/>       <img src="Media/WindSpeedAltitudeChartMiddle.png" width="400" height="200"/><img src="Media/WindSpeedAltitudeChartHigh.png" width="400" height="200"/>
 * Found that the wind created by the drone moving does affect the readings, but when it is flying in a stable position it doesn't, so the lowest position works for our purposes: gathering data while flying at a stable altitude
 * Brainstormed different options for box design and getting the landing platform far enough from the walls of the box
+
+### Week of 3.6.23
+* Decided to use a canopy to fold out and cover the drone after it lands, which will mean that the drone won't have to be raised or lowered to provide clearance for landing
+* Designed, 3d printed, and assembled a scale prototype for the canopy
+<br/> <img src="Media/ScaleCanopy.png" width="306" height="200"/>

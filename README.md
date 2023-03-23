@@ -159,6 +159,7 @@ Use cumulative knowledge to solve an important issue.
 <br/> <img src="Media/ScaleRibs.PNG" width="306" height="200"/> <img src="Media/ScaleRibVideo.gif" width="355" height="200"/>
 
 ### Week of 3.13.23
-* Began designing full scale version of the canopy; each rib will have to be divided into eight parts to fit on the print bed, although several of the parts will be duplicates, which will make designing it more efficient
-* Tested the fit of the connector between each segment of the ribs
+* Began designing full scale version of the canopy, taking into account the constraints of minimum and maximum dimensions in different directions based on the drone's landing platform
+* Each rib will have to be divided into eight parts to fit on the print bed, although several of the parts will be duplicates, which will make designing it more efficient
+* Printed smaller pieces to test the fit of the connector between each segment of the ribs
 * Printed and assembled one full rib, which had a couple design flaws: not all of the holes being countersunk and forgetting to add holes to attach the canopy to, but is otherwise functional

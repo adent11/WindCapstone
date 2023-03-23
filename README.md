@@ -157,3 +157,8 @@ Use cumulative knowledge to solve an important issue.
 * Attached plastic between the ribs of the canopy to waterproof, in the full size version we will material from a tarp
 * For the final version we will have to divide each rib into multiple segments to fit in the 3d printer
 <br/> <img src="Media/ScaleRibs.PNG" width="306" height="200"/> <img src="Media/ScaleRibVideo.gif" width="355" height="200"/>
+
+### Week of 3.13.23
+* Began designing full scale version of the canopy; each rib will have to be divided into eight parts to fit on the print bed, although several of the parts will be duplicates, which will make designing it more efficient
+* Tested the fit of the connector between each segment of the ribs
+* Printed and assembled one full rib, which had a couple design flaws: not all of the holes being countersunk and forgetting to add holes to attach the canopy to, but is otherwise functional

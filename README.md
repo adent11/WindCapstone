@@ -163,3 +163,9 @@ Use cumulative knowledge to solve an important issue.
 * Each rib will have to be divided into eight parts to fit on the print bed, although several of the parts will be duplicates, which will make designing it more efficient
 * Printed smaller pieces to test the fit of the connector between each segment of the ribs
 * Printed and assembled one full rib, which had a couple design flaws: not all of the holes being countersunk and forgetting to add holes to attach the canopy to, but is otherwise functional
+
+### Week of 3.20.23
+* Attached the plastic tarp to the rib that we printed using bolts and washers
+* Continued designing the other sets of ribs
+* Tested the dimensions of the end of the motor to create an adapter to connect it to the axle
+* Changed the dimensions of all the rings to make the ring that we already printed the second largest rather than the largest, which gives us more space for the tarp to be when the canopy is closed

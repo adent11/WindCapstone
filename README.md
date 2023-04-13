@@ -169,3 +169,12 @@ Use cumulative knowledge to solve an important issue.
 * Continued designing the other sets of ribs
 * Tested the dimensions of the end of the motor to create an adapter to connect it to the axle
 * Changed the dimensions of all the rings to make the ring that we already printed the second largest rather than the largest, which gives us more space for the tarp to be when the canopy is closed
+
+### Week of 3.27.23
+* 
+
+### Week of 4.10.23
+* jet lag is not friendly
+* Changed diameter of axel hole in rib to reduce friction
+* Started printing our ribs, printed first (and largest) rib on 4.13
+* Will see if there is anything to alter after print. Hopefully will have full carriage manufactured by end of April.

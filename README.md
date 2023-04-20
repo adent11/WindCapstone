@@ -171,10 +171,16 @@ Use cumulative knowledge to solve an important issue.
 * Changed the dimensions of all the rings to make the ring that we already printed the second largest rather than the largest, which gives us more space for the tarp to be when the canopy is closed
 
 ### Week of 3.27.23
-* 
+* Planned for CERN, was a short week. Was extremely hectic planning for Europe
 
 ### Week of 4.10.23
 * jet lag is not friendly
 * Changed diameter of axel hole in rib to reduce friction
 * Started printing our ribs, printed first (and largest) rib on 4.13
 * Will see if there is anything to alter after print. Hopefully will have full carriage manufactured by end of April.
+
+### Week of 4.17.23
+* Alden got surgery so productivity plummeted by roughly 70%
+* Printed out all common parts and the third rib on 4.20 (Nice)
+* Put plastic on the largest rib to try to construct half of the carriage but decided to wait on fully assembling the carriage until alden gets back.
+

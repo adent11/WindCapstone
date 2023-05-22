@@ -23,9 +23,6 @@ Use cumulative knowledge to solve an important issue.
 ## Risk Mitigation
 * The main source of risk for our project is drone flight, so we will use proper precautions and only fly in appropriate circumstances
 
-# To-Do
-* 
-
 ## Tentative schedule
 * November 1st - December 20th:
     * Make Onshape model of box
@@ -39,8 +36,6 @@ Use cumulative knowledge to solve an important issue.
     * Be able to detect wind speeds accurately
     * Make project summary presentation
 
-
-# Code
 
 # Documentation
 

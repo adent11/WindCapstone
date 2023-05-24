@@ -19,6 +19,10 @@ Use cumulative knowledge to solve an important issue.
 ## Materials
 * [Modern Device Wind Sensor Rev. P](https://moderndevice.com/products/Wind-Sensor-Rev-P)
 * Contixo GPS F18 Drone
+* Raspberry Pi Pico
+* Adafruit MPL3115A2 barometric altimeter
+* Adafruit PowerBoost and battery
+* 3d printed and lasercut plastic
 
 ## Risk Mitigation
 * The main source of risk for our project is drone flight, so we will use proper precautions and only fly in appropriate circumstances
@@ -37,7 +41,7 @@ Use cumulative knowledge to solve an important issue.
     * Make project summary presentation
 
 
-# Documentation
+# Weekly Documentation
 
 ### Week of 10.31.22
 * Succesfully pivoted to new project
